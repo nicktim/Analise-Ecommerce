@@ -42,7 +42,7 @@ Os dados originais são grandes e estão disponíveis publicamente no Kaggle:
 
 https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop/
 
-Para facilitar o uso, neste repositório incluímos uma amostra dos dados com 1000 linhas na pasta `data/`.
+Para facilitar o uso, neste repositório incluímos uma amostra dos dados com 1000 linhas.
 
 Use esses arquivos para rodar os notebooks e testar o código.
 
